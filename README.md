@@ -14,3 +14,9 @@ Live Demo -
 HTML5
 CSS3
 JavaScript
+
+📂 Project Structure
+login-form/
+│── index.html
+│── style.css
+│── script.js
