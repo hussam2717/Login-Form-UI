@@ -9,3 +9,8 @@ Live Demo -
 👁️ Show/Hide password toggle
 🎨 Clean and minimal UI design
 📱 Responsive layout
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
