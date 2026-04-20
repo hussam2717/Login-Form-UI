@@ -23,3 +23,9 @@ login-form/
 
 🎯 Purpose
 This project is created for practice and to improve frontend development skills, especially UI design and DOM manipulation.
+
+📌 Future Improvements
+Form validation
+Backend authentication integration
+Remember me option
+Forgot password feature
