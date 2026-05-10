@@ -3,7 +3,7 @@ A clean and modern login form built using HTML, CSS, and JavaScript. This projec
 
 Live Demo - https://hussam2717.github.io/Login-Form-UI/
 
-🚀 Features
+## 🚀 Features
 📧 Email input field
 🔒 Password input field
 👁️ Show/Hide password toggle
