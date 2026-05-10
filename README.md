@@ -21,7 +21,7 @@ login-form/
 │── style.css
 │── script.js
 
-🎯 Purpose
+## 🎯 Purpose
 This project is created for practice and to improve frontend development skills, especially UI design and DOM manipulation.
 
 ## 📌 Future Improvements
