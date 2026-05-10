@@ -10,7 +10,7 @@ Live Demo - https://hussam2717.github.io/Login-Form-UI/
 🎨 Clean and minimal UI design
 📱 Responsive layout
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5
 CSS3
 JavaScript
