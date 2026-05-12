@@ -27,4 +27,4 @@ This project is created for practice and to improve frontend development skills,
 Form validation
 Backend authentication integration
 Remember me option
-Forgot password feature
+Forgot password feature.
